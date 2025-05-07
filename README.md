@@ -4,8 +4,8 @@ Objective of this Analysis was to know about the chocolate sales trend over the 
 
 ---
 ## Dataset:
- **Source** : https://github.com/islam2000-rabi/Chocolate-sales-analysis/blob/main/Chocolate%20Sales.csv 
- **Columns Include**: 
+ - **Source** : https://github.com/islam2000-rabi/Chocolate-sales-analysis/blob/main/Chocolate%20Sales.csv 
+ - **Columns Include**: 
    - Sales Person
    - Country
    - Product
